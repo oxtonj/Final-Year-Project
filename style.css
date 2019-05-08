@@ -1,0 +1,57 @@
+nav 
+{
+	
+background:	#00FFFF;
+
+border-right:1px solid #999999;
+	
+margin:10px;
+	
+width:200px;
+	
+height:800px;
+	
+list-style:none;
+
+float: left; 
+
+}
+
+
+nav li 
+{
+	
+border-left:1px solid #999999;
+	
+
+	
+width:124px;
+	
+list-style:none;
+	
+font-size:80%;
+
+}
+
+div
+{
+	margin-bottom:100px ;
+	margin-left: 30%;
+	height:1px;
+	
+}
+
+
+
+section#maincontent 
+{
+	
+height:auto;
+	
+margin:0 auto;
+	
+padding:15px 0 20px;
+	
+width:750px;
+
+}
